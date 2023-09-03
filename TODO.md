@@ -1,3 +1,0 @@
-- [ ] prendre une grosse partie de Readme
-- [ ] Prendre partie stats de ReadMe
-- [ ] Mettre des trucs pertinant!!!
