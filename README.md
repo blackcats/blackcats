@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
 <h3 align="center">and I'm a curious person living in South France</h3>
 
-<!-- A little more about me...? -->
+<!-- A little more about me... -->
 
-Currently, I'm woriking on [my new backup strategy]()(not currently publix), 
-greatly inspired from [Jeff Geerling](https://github.com/geerlingguy)'s 
+Currently, I'm woriking on [my new backup strategy](https://github.com/blackcats/my-backup-strategy) 
+(not currently publix), greatly inspired from [Jeff Geerling](https://github.com/geerlingguy)'s 
 repository: [my backup plan](https://github.com/geerlingguy/my-backup-plan). 
 
 One of my upcoming projects (hopefully soon) will be to reuse 
